@@ -2,5 +2,5 @@
 
 ------
 
-Hello，git de 
+Hello，git
 
